@@ -1,5 +1,27 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+===============================================================================
+
+## My approach
+
+ I created 4 folders.
+  assets - includes the images of the requirements
+  Resources - contains my cities csv file and the converts city.html file
+  visualizations - contains the pictures from the homeowrk.
+  WebVisualizations - contais the 7 web pages
+    Index.html - main page
+    cityvscloudiness - page on the cloudiness plot
+    cityvshumidity - page on the humidity plot
+    cityvstemp - page on the temp plot 
+    cityvswind - page on the wind plot
+    comparison - page with all four plots to compare
+    data - page with the city data
+
+I ended up using my own data from the homework and ran it through the jupyter notebook to create an html file.  I imported that into the web page data.html cleaned up the html table headers and made it responsive.  
+
+The main pages I followed the images granted my green is slight different, and made them responsive the screen size.
+
+===================================================================================
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
