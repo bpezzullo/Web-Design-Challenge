@@ -13,9 +13,12 @@ p {font-size: 15px;}
   background-color:lightgray
 }
 .mformat {
-  background-color: green; 
+  background-color: rgb(93, 161, 93); 
   padding-right: 4px;
   padding-left: 4px;
+}
+.backnav {
+  background-color: whitesmoke;
 }
 .img-thumbnail {
   width: "45%"
@@ -34,4 +37,7 @@ p {font-size: 15px;}
   .img-thumbnail {
   width: "25%"
 }
+  .backnav {
+    background-color: rgb(93, 161, 93);
+  }
 }
