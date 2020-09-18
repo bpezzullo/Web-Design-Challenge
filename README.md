@@ -50,5 +50,5 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ## Web HTML
 
-http://~/WebVisualizations/Index.html
+http://WebVisualizations/Index.html
 
